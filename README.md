@@ -130,3 +130,4 @@ python limpeza_dados.py produtos.xlsx produtos_limpos.xlsx
 ## 📜 Licença
 
 - Este projeto pode ser utilizado e adaptado livremente para fins educacionais e corporativos.
+- Copyright (c) 2025 Alex Menezes - limpeza_dados.py
